@@ -1,5 +1,8 @@
 README:
 
+For those finding this on GitHub: you only need Conjugation.jar and the data folder. The src folder is unnecessary.
+For everyone: read on.
+
 The current working directory line that prints when you boot up the program is important.
 Do not ignore it.
 The current working directory should ALWAYS be the folder that Conjugation.jar resides in.
