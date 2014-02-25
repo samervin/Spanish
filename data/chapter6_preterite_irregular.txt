@@ -1,0 +1,5 @@
+secar(preterite) seque' secaste seco' secamos secasteis secaron
+andar(preterite) anduve anduviste anduvo anduvimos anduvisteis anduvieron
+pescar(preterite) pesque' pescaste pesco' pescamos pescasteis pescaron
+divertir(preterite) diverti' divertiste divirtio' divertimos divertisteis divirtieron
+vestir(preterite) vesti' vestiste vistio' vestimos vestisteis vistieron

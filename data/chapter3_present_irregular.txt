@@ -1,0 +1,17 @@
+cerrar(present) cierro cierras cierra cerramos cerra'is cierran
+comenzar(present) comienzo comienzas comienza comenzamos comenza'is comienzan
+competir(present) compito compites compite competimos competi's compiten
+empezar(present) empiezo empiezas empieza empezamos empeza'is empiezan
+entender(present) entiendo entiendes entiende entendemos entende'is entienden
+mentir(present) miento mientes miente mentimos menti's mienten
+nevar(present) nievo nievas nieva nevamos neva'is nievan
+pedir(present) pido pides pide pedimos pedi's piden
+pensar(present) pienso piensas piensa pensamos pensa'is piensan
+perder(present) pierdo pierdes pierde perdemos perde'is pierden
+preferir(present) prefiero prefieres prefiere preferimos preferi's prefieren
+rei'r(present) ri'o ri'es ri'e rei'mos rei's ri'en
+repetir(present) repito repites repite repetimos repeti's repiten
+querer(present) quiero quieres quiere queremos quere'is quieren
+servir(present) sirvo sirves sirve servimos servi's sirven
+sonreír(present) sonri'o sonri'es sonri'e sonrei'mos sonrei's sonri'en
+estar(present) estoy esta's esta' estamos esta'is esta'nce

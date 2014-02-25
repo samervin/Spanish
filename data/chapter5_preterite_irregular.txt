@@ -1,0 +1,12 @@
+destruir(preterite) destrui' destruiste destruyo' destruimos destruisteis destruyeron
+conducir(preterite) conduje condujiste condujo condujimos condujisteis condujeron
+dar(preterite) di diste dio dimos disteis dieron
+decir(preterite) dije dijiste dijo dijimos dijisteis dijeron
+hacer(preterite) hice hiciste hizo hicimos hicisteis hicieron
+oi'r(preterite) oi' oi'ste oyo' oi'mos oi'steis oyeron
+poner(preterite) puse pusiste puso pusimos pusisteis pusieron
+saber(preterite) supe supiste supo supimos supisteis supieron
+seguir(preterite) segui' seguiste siguio' seguimos seguisteis siguieron
+traer(preterite) traje trajiste trajo trajimos trajisteis trajeron
+venir(preterite) vine viniste vino vinimos vinisteis vineron
+ver(preterite) vi viste vio vimos visteis vieron

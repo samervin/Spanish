@@ -1,0 +1,14 @@
+creer(preterite) crei' crei'ste creyo' crei'mos crei'steis creyeron
+leer(preterite) lei' lei'ste leyo' lei'mos lei'steis leyeron
+comenzar(preterite) comence' comenzaste comenzo' comenzamos comenzasteis comenzaron
+competir(preterite) competi' competiste compitio' competimos competisteis compitieron
+empezar(preterite) empece' empezaste empezo' empezamos empezasteis empezaron
+mentir(preterite) menti' mentiste mintio' mentimos mentisteis mintieron
+pedir(preterite) pedi' pediste pidio' pedimos pedisteis pidieron
+preferir(preterite) preferi' preferiste prefirio' preferimos preferisteis prefirieron
+rei'r(preterite) rei' rei'ste rio' rei'mos rei'steis rieron
+repetir(preterite) repeti' repetiste repitio' repetimos repetisteis repitieron
+querer(preterite) quise quisiste quiso quisimos quisisteis quisieron
+servir(preterite) servi' serviste sirvio' servimos servisteis sirvieron
+sonrei'r(preterite) sonrei' sonrei'ste sonrio' sonrei'mos sonrei'steis sonrieron
+estar(preterite) estuve estuviste estuvo estuvimos estuvisteis estuvieron

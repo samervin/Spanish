@@ -1,0 +1,6 @@
+alojar(preterite) aloje' alojaste alojo' alojamos alojasteis alojaron
+bajar(preterite) baje' bajaste bajo' bajamos bajasteis bajaron
+quedar(preterite) quede' quedaste quedo' quedamos quedasteis quedaron
+subir(preterite) subi' subiste subio' subimos subisteis subieron
+cenar(preterite) cene' cenaste ceno' cenamos cenasteis cenaron
+desayunar(preterite) desayune' desayunaste desayuno' desayunamos desayunasteis desayunaron

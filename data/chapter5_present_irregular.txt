@@ -1,0 +1,14 @@
+destruir(present) destruyo destruyes destruye destruimos destrui's destruyen
+conducir(present) conduzco conduces conduce conducimos conduci's conducen
+conocer(present) conozco conoces conoce conocemos conoce'is conocen
+dar(present) doy das da damos dais dan
+decir(present) digo dices dice decimos deci's dicen
+hacer(present) hago haces hace hacemos hace'is hacen
+oi'r(present) oigo oyes oye o'imos oi's oyen
+poner(present) pongo pones pone ponemos pone'is ponen
+saber(present) se' sabes sabe sabemos sabe'is saben
+salir(present) salgo sales sale salimos sali's salen
+seguir(present) sigo sigues sigue seguimos segui's siguen
+traer(present) traigo traes trae traemos trae'is traen
+venir(present) vengo vienes viene venimos veni's vienen
+ver(present) veo ves ve vemos veis ven

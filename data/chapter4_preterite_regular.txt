@@ -1,0 +1,10 @@
+depositar(preterite) deposite' depositaste deposito' depositamos depositasteis depositaron
+mandar(preterite) mande' mandaste mando' mandamos mandasteis mandaron
+alquilar(preterite) alquile' alquilaste alquilo' alquilamos alquilasteis alquilaron
+costar(preterite) coste' costaste costo' costamos costasteis costaron
+recordar(preterite) recorde' recordaste recordo' recordamos recordasteis recordaron
+son'ar(preterite) son'e' son'aste son'o' son'amos son'asteis son'aron
+encontrar(preterite) encontre' encontraste encontro' encontramos encontrasteis encontraron
+devolver(preterite) devolvi' devolviste devolvio' devolvimos devolvisteis devolvieron
+llover(preterite) llovi' lloviste llovio' llovimos llovisteis llovieron
+volver(preterite) volvi' volviste volvio' volvimos volvisteis volvieron

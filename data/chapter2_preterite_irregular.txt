@@ -1,0 +1,3 @@
+buscar(preterite) busque' buscaste busco' buscamos buscasteis buscaron
+llegar(preterite) llegue' llegaste llego' llegamos llegasteis llegaron
+practicar(preterite) practique' practicaste practico' practicamos practicasteis practicaron

@@ -1,0 +1,22 @@
+ayudar(preterite) ayude' ayudaste ayudo' ayudamos ayudasteis ayudaron
+bailar(preterite) baile' bailaste bailo' bailamos bailasteis bailaron
+caminar(preterite) camine' caminaste camino' caminamos caminasteis caminaron
+cantar(preterite) cante' cantaste canto' cantamos cantasteis cantaron
+cocinar(preterite) cocine' cocinaste cocino' cocinamos cocinasteis cocinaron
+comprar(preterite) compre' compraste compro' compramos comprasteis compraron
+desear(preterite) desee' deseaste deseo' deseamos deseasteis desearon
+ensen'ar(preterite) ensen'e' ensen'aste ensen'o' ensen'amos ensen'asteis ensen'aron
+escuchar(preterite) escuche' escuchaste escucho' escuchamos escuchasteis escucharon
+esquiar(preterite) esquie' esquiaste esquio' esquiamos esquiasteis esquiaron
+estudiar(preterite) estudie' estudiaste estudio' estudiamos estudiasteis estudiaron
+hablar(preterite) hable' hablaste hablo' hablamos hablasteis 
+limpiar(preterite) limpie' limpiaste limpio' limpiamos limpiasteis limpiaron
+llamar(preterite) llame' llamaste llamo' llamamos llamasteis llamaron
+mirar(preterite) mire' miraste miro' miramos mirasteis miraron
+nadar(preterite) nade' nadaste nado' nadamos nadasteis nadaron
+necesitar(preterite) necesite' necesitaste necesito' necesitamos necesitasteis necesitaron
+preguntar(preterite) pregunte' preguntaste pregunto' preguntamos preguntasteis preguntaron
+regresar(preterite) regrese' regresaste regreso' regresamos regresasteis regresaron
+tomar(preterite) tome' tomaste tomo' tomamos tomasteis tomaron
+trabajar(preterite) trabaje' trabajaste trabajo' trabajamos trabajasteis trabajaron
+viajar(preterite) viaje' viajaste viajo' viajamos viajasteis viajaron

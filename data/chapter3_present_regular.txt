@@ -1,0 +1,15 @@
+abrir(present) abro abres abre abrimos abri's abren
+aprender(present) aprendo aprendes aprende aprendemos aprende'is aprenden
+asistir(present) asisto asistes asiste asistimos asisti's asisten
+beber(present) bebo bebes bebe bebemos bebe'is beben
+comer(present) como comes come comemos come'is comen
+comprender(present) comprendo comprendes comprende comprendemos comprende'is comprenden
+correr(present) corro corres corre corremos corre'is corren
+creer(present) creo crees cree creemos cree'is creen
+deber(present) debo debes debe debemos debe'is deben
+escribir(present) escribo escribes escribe escribimos escribi's escriben
+leer(present) leo lees lee leemos lee'is leen
+recibir(present) recibo recibes recibe recibimos recibi's reciben
+vender(present) vendo vendes vende vendemos vende'is venden
+vivir(present) vivo vives vive vivimos vivi's viven
+llevar(present) llevo llevas lleva llevamos lleva'is llevan

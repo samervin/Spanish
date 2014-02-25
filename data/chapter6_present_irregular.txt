@@ -1,0 +1,4 @@
+acostar(present) acuesto acuestas acuesta acostamos acosta'is acuestan
+despertar(present) despierto despiertas despierta despertamos desperta'is despiertan
+divertir(present) divierto diviertes divierte divertimos diverti's divierten
+vestir(present) visto vistes viste vestimos vesti's visten

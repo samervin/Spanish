@@ -1,0 +1,6 @@
+alojar(present) alojo alojas aloja alojamos aloja'is alojan
+bajar(present) bajo bajas baja bajamos baja'is bajan
+quedar(present) quedo quedas queda quedamos queda'is quedan
+subir(present) subo subes sube subimos subi's suben
+cenar(present) ceno cenas cena cenamos cena'is cenan
+desayunar(present) desayuno desayunas desayuna desayunamos desayuna'is desayunan

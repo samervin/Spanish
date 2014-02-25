@@ -1,0 +1,4 @@
+ganar(preterite) gane' ganaste gano' ganamos ganasteis ganaron
+dejar(preterite) deje' dejaste dejo' dejamos dejasteis dejaron
+conocer(preterite) conoci' conociste conocio' conocimos conocisteis conocieron
+salir(preterite) sali' saliste salio' salimos salisteis salieron

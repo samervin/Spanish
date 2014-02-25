@@ -1,0 +1,7 @@
+rezar(preterite) rece' rezaste rezo' rezamos rezasteis rezaron
+ir(preterite) fui fuiste fue fuimos fuisteis fueron
+almorzar(preterite) almorce' almorzaste almorzo' almorzamos almorzasteis almorzaron
+jugar(preterite) jugue' jugaste jugo' jugamos jugasteis jugaron
+dormir(preterite) dormi' dormiste durmio' dormimos dormisteis durmieron
+morir(preterite) mori' moriste murio' morimos moristeis murieron
+poder(preterite) pude pudiste pudo pudimos pudisteis pudieron

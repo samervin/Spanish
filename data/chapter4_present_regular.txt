@@ -1,0 +1,4 @@
+depositar(present) deposito depositas deposita depositamos deposita'is depositan
+mandar(present) mando mandas manda mandamos manda'is mandan
+rezar(present) rezo rezas reza rezamos reza'is rezan
+alquilar(present) alquilo alquilas alquila alquilamos alquila'is alquilan

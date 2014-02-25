@@ -1,0 +1,13 @@
+ir(present) voy vas va vamos vais van
+almorzar(present) almuerzo almuerzas almuerza almorzamos almorza'is almuerzan
+costar(present) cuesto cuestas cuesta costamos costa'is cuestan
+recordar(present) recuerdo recuerdas recuerda recordamos recorda'is recuerdan
+son'ar(present) suen'o suen'as suen'a son'amos son'a'is suen'an
+encontrar(present) encuentro encuentras encuentra encontramos encontra'is encuentran
+jugar(present) juego juegas juega jugamos juga'is juegan
+dormir(present) duermo duermes duerme dormimos dormi's duermen
+morir(present) muero mueres muere morimos mori's mueren
+devolver(present) devuelvo devuelves devuelve devolvemos devolve'is devuelven
+llover(present) lluevo llueves llueve llovemos llove'is llueven
+poder(present) puedo puedes puede podemos pode'is pueden
+volver(present) vuelvo vuelves vuelve volvemos volve'is vuelven

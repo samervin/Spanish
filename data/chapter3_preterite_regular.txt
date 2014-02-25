@@ -1,0 +1,17 @@
+abrir(preterite) abri' abriste abrio' abrimos abristeis abrieron
+aprender(preterite) aprendi' aprendiste aprendio' aprendimos aprendisteis aprendieron
+asistir(preterite) asisti' asististe asistio' asistimos asististeis asistieron
+beber(preterite) bebi' bebiste bebio' bebimos bebisteis bebieron
+comer(preterite) comi' comiste comio' comimos comisteis comieron
+comprender(preterite) comprendi' comprendiste comprendio' comprendimos comprendisteis comprendieron
+correr(preterite) corri' corriste corrio' corrimos corristeis corrieron
+deber(preterite) debi' debiste debio' debimos debisteis debieron
+escribir(preterite) escribi' escribiste escribio' escribimos escribisteis escribieron
+vender(preterite) vendi' vendiste vendio' vendimos vendisteis vendieron
+vivir(preterite) vivi' viviste vivio' vivimos vivisteis vivieron
+llevar(preterite) lleve' llevaste llevo' llevamos llevasteis llevaron
+cerrar(preterite) cerre' cerraste cerro' cerramos cerrasteis cerraron
+entender(preterite) entendi' entendiste entendio' entendimos entendisteis entendieron
+nevar(preterite) neve' nevaste nevo' nevamos nevasteis nevaron
+pensar(preterite) pense' pensaste penso' pensamos pensasteis pensaron
+perder(preterite) perdi' perdiste perdio' perdimos perdisteis perdieron
