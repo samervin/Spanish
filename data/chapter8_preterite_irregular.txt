@@ -1,0 +1,3 @@
+agregar(preterite) agregue' agregaste agrego' agregamos agregasteis agregaron
+frei'r(preterite) frei' frei'ste frio' frei'mos frei'steis frieron
+tocar(preterite) toque' tocaste toco' tocamos tocasteis tocaron

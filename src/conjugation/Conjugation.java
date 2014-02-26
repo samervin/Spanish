@@ -38,15 +38,13 @@ public class Conjugation extends JFrame{
 	static JFrame frame;
 	static JPanel panel;
 
-	static int numberOfChapters = 7;
+	static int numberOfChapters = 8;
 	static int correct;
 	static int total;
 	static int word;
 	static int state = 0; //0 = getting information, 1 = entering info, 2 = end program
 	static String pool = "any";
 	static Random rand = new Random();
-	
-	static String thePath = "";
 
 	public static void createFrame() {
 		frame = new JFrame("SPAN101 Conjugation");
@@ -98,7 +96,7 @@ public class Conjugation extends JFrame{
 	public static void loadWordsFromFile() {
 		arr.clear();
 		Scanner in;
-		File pathToData = new File(thePath + "data");
+		File pathToData = new File("data");
 		File[] filenames = pathToData.listFiles();
 
 		try {
@@ -195,9 +193,6 @@ public class Conjugation extends JFrame{
 					output.append("Do not type accents, type an apostrophe ' after the appropriate letter\n\t(for example, vosotros ayuda'is or yo ensen'o).\n");
 					input.setText("");
 
-				} else if(ans.length == 2 && ans[0].equals("advanced")) {
-					output.append("Setting path to " + ans[1] + ", which should hopefully work.\n");
-					input.setText("");
 				} else if(ans.length == 1 && ans[0].equals("reset")) {
 					output.setText("");
 					input.setText("");
@@ -209,7 +204,7 @@ public class Conjugation extends JFrame{
 					output.append("\t\"any-i\" for all irregular words, \"pres-i\" for all present-tense irregulars, \"pret-i\" for all preterite irregulars,\n");
 					output.append("\t\"any-#\" for any words from the # chapters, \"pres-#\" for present-tense words from the # chapters,\n");
 					output.append("\tor \"pret-#\" for preterite words from the # chapters.\n");
-					output.append("\t(where # can be any string of numbers like 1 or 245 or 67)\n");
+					output.append("\t(where # can be any string of numbers like 1 or 245 or 86)\n");
 
 				} else if(ans.length == 1 && ans[0].equals("words")) {
 					output.append("Which words would you like to study?\n");
@@ -217,7 +212,7 @@ public class Conjugation extends JFrame{
 					output.append("\t\"any-i\" for all irregular words, \"pres-i\" for all present-tense irregulars, \"pret-i\" for all preterite irregulars,\n");
 					output.append("\t\"any-#\" for any words from the # chapters, \"pres-#\" for present-tense words from the # chapters,\n");
 					output.append("\tor \"pret-#\" for preterite words from the # chapters.\n");
-					output.append("\t(where # can be any string of numbers like 1 or 245 or 67)\n");
+					output.append("\t(where # can be any string of numbers like 1 or 245 or 86)\n");
 					state = 0;
 					input.setText("");
 				}
@@ -275,7 +270,7 @@ public class Conjugation extends JFrame{
 
 		createFrame();
 		output.append("Current working directory: " + s + "\n");
-		output.append("Spanish 101 Conjugation practice program, version 6 (Chapters 1-7, present/preterite tenses)\n");
+		output.append("Spanish 101 Conjugation practice program, version 8 (Chapters 1-8, present/preterite tenses)\n");
 		output.append("Type \"help\" for assistance or type \"quit\" to see your final score.\n\n");
 		state = 0;
 
@@ -284,6 +279,6 @@ public class Conjugation extends JFrame{
 		output.append("\t\"any-i\" for all irregular words, \"pres-i\" for all present-tense irregulars, \"pret-i\" for all preterite irregulars,\n");
 		output.append("\t\"any-#\" for any words from the # chapters, \"pres-#\" for present-tense words from the # chapters,\n");
 		output.append("\tor \"pret-#\" for preterite words from the # chapters.\n");
-		output.append("\t(where # can be any string of numbers like 1 or 245 or 67)\n");
+		output.append("\t(where # can be any string of numbers like 1 or 245 or 86)\n");
 	}
 }

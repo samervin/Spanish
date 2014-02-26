@@ -1,0 +1,15 @@
+batir(preterite) bati' batiste batio' batimos batisteis batieron
+hornear(preterite) hornee' horneaste horneo' horneamos horneasteis hornearon
+mezclar(preterite) mezcle' mezclaste mezclo' mezclamos mezclasteis mezclaron
+mostrar(preterite) mostre' mostraste mostro' mostramos mostrasteis mostraron
+pelar(preterite) pele' pelaste pelo' pelamos pelasteis pelaron
+prestar(preterite) preste' prestaste presto' prestamos prestasteis prestaron
+chatear(preterite) chatee' chateaste chateo' chateamos chateasteis chatearon
+contar(preterite) conte' contaste conto' contamos contasteis contaron
+dibujar(preterite) dibuje' dibujaste dibujo' dibujamos dibujasteis dibujaron
+pelear(preterite) pelee' peleaste peleo' peleamos peleasteis pelearon
+portar(preterite) porte' portaste porto' portamos portasteis portaron
+saltar(preterite) salte' saltaste salto' saltamos saltasteis saltaron
+tejer(preterite) teji' tejiste tejio' tejimos tejisteis tejieron
+trepar(preterite) trepe' trepaste trepo' trepamos trepasteis treparon
+volar(preterite) vole' volaste volo' volamos volasteis volaron

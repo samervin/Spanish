@@ -1,0 +1,4 @@
+frei'r(present) fri'o fri'es fri'e frei'mos frei's fri'en
+mostrar(present) muestro muestras muestra mostramos mostra'is muestran
+contar(present) cuento cuentas cuenta contamos conta'is cuentan
+volar(present) vuelo vuelas vuela volamos vola'is vuelan

@@ -1,0 +1,14 @@
+agregar(present) agrego agregas agrega agregamos agrega'is agregan
+batir(present) bato bates bate batimos bati's baten
+hornear(present) horneo horneas hornea horneamos hornea'is hornean
+mezclar(present) mezclo mezclas mezcla mezclamos mezcla'is mezclan
+pelar(present) pelo pelas pela pelamos pela'is pelan
+prestar(present) presto prestas presta prestamos presta'is prestan
+chatear(present) chateo chateas chatea chateamos chatea'is chatean
+dibujar(present) dibujo dibujas dibuja dibujamos dibuja'is dibujan
+pelear(present) peleo peleas pelea peleamos pelea'is pelean
+portar(present) porto portas porta portamos porta'is portan
+saltar(present) salto saltas salta saltamos salta'is saltan
+tejer(present) tejo tejes teje tejemos teje'is tejen
+trepar(present) trepo trepas trepa trepamos trepa'is trepan
+tocar(present) toco tocas toca tocamos toca'is tocan
