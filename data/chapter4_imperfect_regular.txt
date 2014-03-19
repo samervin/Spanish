@@ -1,0 +1,16 @@
+depositar(imperfect) depositaba depositabas depositaba deposita'bamos depositabais depositaban
+mandar(imperfect) mandaba mandabas mandaba manda'bamos mandabais mandaban
+rezar(imperfect) rezaba rezabas rezaba reza'bamos rezabais rezaban
+alquilar(imperfect) alquilaba alquilabas alquilaba alquila'bamos alquilabais alquilaban
+almorzar(imperfect) almorzaba almorzabas almorzaba almorza'bamos almorzabais almorzaban
+costar(imperfect) costaba costabas costaba costa'bamos costabais costaban
+recordar(imperfect) recordaba recordabas recordaba recorda'bamos recordabais recordaban
+son'ar(imperfect) son'aba son'abas son'aba son'a'bamos son'abais son'aban
+encontrar(imperfect) encontraba encontrabas encontraba encontra'bamos encontrabais encontraban
+jugar(imperfect) jugaba jugabas jugaba juga'bamos jugabais jugaban
+dormir(imperfect) dormi'a dormi'as dormi'a dormi'amos dormi'ais dormi'an
+morir(imperfect) mori'a mori'as mori'a mori'amos mori'ais mori'an
+devolver(imperfect) devolvi'a devolvi'as devolvi'a devolvi'amos devolvi'ais devolvi'an
+llover(imperfect) llovi'a llovi'as llovi'a llovi'amos llovi'ais llovi'an
+poder(imperfect) podi'a podi'as podi'a podi'amos podi'ais podi'an
+volver(imperfect) volvi'a volvi'as volvi'a volvi'amos volvi'ais volvi'an

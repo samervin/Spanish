@@ -1,0 +1,17 @@
+brindar(present) brindo brindas brinda brindamos brinda'is brindan
+casar(present) caso casas casa casamos casa'is casan
+celebrar(present) celebro celebras celebra celebramos celebra'is celebran
+cumplir(present) cumplo cumples cumple cumplimos cumpli's cumplen
+romper(present) rompo rompes rompe rompemos rompe'is rompen
+aburrir(present) aburro aburres aburre aburrimos aburri's aburren
+alegrar(present) alegro alegras alegra alegramos alegra'is alegran
+asustar(present) asusto asustas asusta asustamos asusta'is asustan
+atropellar(present) atropello atropellas atropella atropellamos atropella'is atropellan
+chocar(present) choco chocas choca chocamos choca'is chocan
+dan'ar(present) dan'o dan'as dan'a dan'amos dan'a'is dan'an
+enojar(present) enojo enojas enoja enojamos enoja'is enojan
+estacionar(present) estaciono estacionas estaciona estacionamos estaciona'is estacionan
+frustrar(present) frustro frustras frustra frustramos frustra'is frustran
+pasar(present) paso pasas pasa pasamos pasa'is pasan
+sorprendar(present) sorprendo sorprendas sorprenda sorprendamos sorprenda'is sorprendan
+subir(present) subo subes sube subimos subi's suben

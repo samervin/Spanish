@@ -1,0 +1,5 @@
+atravesar(present) atravieso atraviesas atraviesa atravesamos atravesa'is atraviesan
+caer(present) caigo caes cae caemos cae'is caen
+distraer(present) distraigo distraes distrae distraemos distrae'is distraen
+sentir(present) siento sientes siente sentimos senti's sienten
+tropezar(present) tropiezo tropiezas tropieza tropezamos tropeza'is tropiezan

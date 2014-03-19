@@ -1,0 +1,15 @@
+ganar(imperfect) ganaba ganabas ganaba gana'bamos ganabais ganaban
+dejar(imperfect) dejaba dejabas dejaba deja'bamos dejabais dejaban
+destruir(imperfect) destrui'a destrui'as destrui'a destrui'amos destrui'ais destrui'an
+conducir(imperfect) conduci'a conduci'as conduci'a conduci'amos conduci'ais conduci'an
+conocer(imperfect) conoci'a conoci'as conoci'a conoci'amos conoci'ais conoci'an
+dar(imperfect) daba dabas daba da'bamos dabais daban
+decir(imperfect) deci'a deci'as deci'a deci'amos deci'ais deci'an
+hacer(imperfect) haci'a haci'as haci'a haci'amos haci'ais haci'an
+oi'r(imperfect) oi'a oi'as oi'a oi'amos oi'ais oi'an
+poner(imperfect) poni'a poni'as poni'a poni'amos poni'ais poni'an
+saber(imperfect) sabi'a sabi'as sabi'a sabi'amos sabi'ais sabi'an
+salir(imperfect) sali'a sali'as sali'a sali'amos sali'ais sali'an
+seguir(imperfect) segui'a segui'as segui'a segui'amos segui'ais segui'an
+traer(imperfect) trai'a trai'as trai'a trai'amos trai'ais trai'an
+venir(imperfect) veni'a veni'as veni'a veni'amos veni'ais veni'an

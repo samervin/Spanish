@@ -1,0 +1,17 @@
+brindar(preterite) brinde' brindaste brindo' brindamos brindasteis brindaron
+casar(preterite) case' casaste caso' casamos casasteis casaron
+celebrar(preterite) celebre' celebraste celebro' celebramos celebrasteis celebraron
+cumplir(preterite) cumpli' cumpliste cumplio' cumplimos cumplisteis cumplieron
+romper(preterite) rompi' rompiste rompio' rompimos rompisteis rompieron
+aburrir(preterite) aburri' aburriste aburrio' aburrimos aburristeis aburrieron
+alegrar(preterite) alegre' alegraste alegro' alegramos alegrasteis alegraron
+asustar(preterite) asuste' asustaste asusto' asustamos asustasteis asustaron
+atravesar(preterite) atravese' atravesaste atraveso' atravesamos atravesasteis atravesaron
+atropellar(preterite) atropelle' atropellaste atropello' atropellamos atropellasteis atropellaron
+dan'ar(preterite) dan'e' dan'aste dan'o' dan'amos dan'asteis dan'aron
+enojar(preterite) enoje' enojaste enojo' enojamos enojasteis enojaron
+estacionar(preterite) estacione' estacionaste estaciono' estacionamos estacionasteis estacionaron
+frustrar(preterite) frustre' frustraste frustro' frustramos frustrasteis frustraron
+pasar(preterite) pase' pasaste paso' pasamos pasasteis pasaron
+sorprender(preterite) sorprendi' sorprendiste sorprendio' sorprendimos sorprendisteis sorprendieron
+subir(preterite) subi' subiste subio' subimos subisteis subieron

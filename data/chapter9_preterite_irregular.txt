@@ -1,0 +1,6 @@
+caer(preterite) cai' cai'ste cayo' cai'mos cai'steis cayeron
+chocar(preterite) chocque' chocaste choco' chocamos chocasteis chocaron
+cruzar(preterite) cruce' cruzaste cruzo' cruzamos cruzasteis cruzaron
+distraer(preterite) distraje distrajiste distrajo distrajimos distrajisteis distrajeron
+sentir(preterite) senti' sentiste sinti'o sentimos sentisteis sintieron
+tropezar(preterite) tropece' tropezaste tropezo' tropezamos tropezasteis tropezaron

@@ -119,6 +119,13 @@ public class Conjugation extends JFrame{
 						while(in.hasNext()) arr.add(in.nextLine());
 					}
 				}
+			} else if(pool.equals("imp")) {
+				for(File f : filenames) {
+					if(f.getName().contains("imperfect")) {
+						in = new Scanner(f);
+						while(in.hasNext()) arr.add(in.nextLine());
+					}
+				}
 			} else if(pool.equals("any-i")) {
 				for(File f : filenames) {
 					if(f.getName().contains("irregular")) {
@@ -136,6 +143,13 @@ public class Conjugation extends JFrame{
 			} else if(pool.equals("pret-i")) {
 				for(File f : filenames) {
 					if(f.getName().contains("irregular") && f.getName().contains("preterite")) {
+						in = new Scanner(f);
+						while(in.hasNext()) arr.add(in.nextLine());
+					}
+				}
+			} else if(pool.equals("imp-i")) {
+				for(File f : filenames) {
+					if(f.getName().contains("irregular") && f.getName().contains("imperfect")) {
 						in = new Scanner(f);
 						while(in.hasNext()) arr.add(in.nextLine());
 					}
@@ -162,6 +176,15 @@ public class Conjugation extends JFrame{
 				for(File f : filenames) {
 					for(int i = 1; i <= numberOfChapters; i++) {
 						if(f.getName().contains("preterite") && f.getName().contains(""+i) && pool.contains(""+i)) {
+							in = new Scanner(f);
+							while(in.hasNext()) arr.add(in.nextLine());
+						}
+					}
+				}
+			} else if(pool.contains("imp")) {
+				for(File f : filenames) {
+					for(int i = 1; i <= numberOfChapters; i++) {
+						if(f.getName().contains("imperfect") && f.getName().contains(""+i) && pool.contains(""+i)) {
 							in = new Scanner(f);
 							while(in.hasNext()) arr.add(in.nextLine());
 						}
@@ -199,20 +222,10 @@ public class Conjugation extends JFrame{
 					correct = 0;
 					total = 0;
 					state = 0;
-					output.append("Which words would you like to study?\n");
-					output.append("Type \"any\" for all possible words, \"pres\" for all present-tense words, \"pret\" for all preterite-tense words,\n");
-					output.append("\t\"any-i\" for all irregular words, \"pres-i\" for all present-tense irregulars, \"pret-i\" for all preterite irregulars,\n");
-					output.append("\t\"any-#\" for any words from the # chapters, \"pres-#\" for present-tense words from the # chapters,\n");
-					output.append("\tor \"pret-#\" for preterite words from the # chapters.\n");
-					output.append("\t(where # can be any string of numbers like 1 or 245 or 86)\n");
+					appendWords();
 
 				} else if(ans.length == 1 && ans[0].equals("words")) {
-					output.append("Which words would you like to study?\n");
-					output.append("Type \"any\" for all possible words, \"pres\" for all present-tense words, \"pret\" for all preterite-tense words,\n");
-					output.append("\t\"any-i\" for all irregular words, \"pres-i\" for all present-tense irregulars, \"pret-i\" for all preterite irregulars,\n");
-					output.append("\t\"any-#\" for any words from the # chapters, \"pres-#\" for present-tense words from the # chapters,\n");
-					output.append("\tor \"pret-#\" for preterite words from the # chapters.\n");
-					output.append("\t(where # can be any string of numbers like 1 or 245 or 86)\n");
+					appendWords();
 					state = 0;
 					input.setText("");
 				}
@@ -243,12 +256,12 @@ public class Conjugation extends JFrame{
 						if(ans[j].equals(line.next()))
 							correct++;
 					}
+					line.close();
 					output.append("You answered:\t" + ans[0]+" "+ans[1]+" "+ans[2]+" "+ans[3]+" "+ans[4]+" "+ans[5]+"\n");
 					String conjugations = arr.get(word).substring(arr.get(word).indexOf(' ') + 1);
 					output.append("Actual answer:\t" + conjugations + "\n\n");
 					askQuestion();
-
-					line.close();
+					output.setCaretPosition(output.getDocument().getLength());
 				}
 
 
@@ -263,6 +276,17 @@ public class Conjugation extends JFrame{
 			input.requestFocus();
 		}
 	}
+	
+	public static void appendWords() {
+		output.append("Which words would you like to study?\n");
+		output.append("Type \"any\" for all possible words, \"pres\" for all present-tense words,\n");
+		output.append("\t\"pret\" for all preterite-tense words, \"imp\" for all imperfect words,\n");
+		output.append("\t\"any-i\" for all irregular words, \"pres-i\" for all present-tense irregulars,\n");
+		output.append("\t\"pret-i\" for all preterite irregulars, \"imp-i\" for all imperfect irregulars,\n");
+		output.append("\t\"any-#\" for any words from # chapters, \"pres-#\" for present-tense words from # chapters,\n");
+		output.append("\t\"pret-#\" for preterite words from # chapters, or \"imp-#\" for imperfect words from # chapters,\n");
+		output.append("\t(where # can be any string of numbers like 1 or 245 or 96)\n");
+	}
 
 	public static void main(String[] args) {
 
@@ -274,11 +298,6 @@ public class Conjugation extends JFrame{
 		output.append("Type \"help\" for assistance or type \"quit\" to see your final score.\n\n");
 		state = 0;
 
-		output.append("Which words would you like to study?\n");
-		output.append("Type \"any\" for all possible words, \"pres\" for all present-tense words, \"pret\" for all preterite-tense words,\n");
-		output.append("\t\"any-i\" for all irregular words, \"pres-i\" for all present-tense irregulars, \"pret-i\" for all preterite irregulars,\n");
-		output.append("\t\"any-#\" for any words from the # chapters, \"pres-#\" for present-tense words from the # chapters,\n");
-		output.append("\tor \"pret-#\" for preterite words from the # chapters.\n");
-		output.append("\t(where # can be any string of numbers like 1 or 245 or 86)\n");
+		appendWords();
 	}
 }
