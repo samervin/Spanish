@@ -1,5 +1,5 @@
 abordar(mandato-formal[ud/uds/nos]) aborde aborden abordemos
-aterrizzar(mandato-formal[ud/uds/nos]) aterrice aterricen aterricemos
+aterrizar(mandato-formal[ud/uds/nos]) aterrice aterricen aterricemos
 despegar(mandato-formal[ud/uds/nos]) despegue despeguen despeguemos
 doblar(mandato-formal[ud/uds/nos]) doble doblen doblemos
 facturar(mandato-formal[ud/uds/nos]) facture facturen facturemos

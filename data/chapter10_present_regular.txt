@@ -1,5 +1,5 @@
 abordar(present) abordo abordas aborda abordamos aborda'is abordan
-aterrizzar(present) aterrizzo aterrizzas aterrizza aterrizzamos aterrizza'is aterrizzan
+aterrizar(present) aterrizo aterrizas aterriza aterrizamos aterriza'is aterrizan
 despegar(present) despego despegas despega despegamos despega'is despegan
 doblar(present) doblo doblas dobla doblamos dobla'is doblan
 facturar(present) facturo facturas factura facturamos factura'is facturan

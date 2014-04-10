@@ -1,5 +1,5 @@
 abordar(imperfect) abordaba abordabas abordaba aborda'bamos abordabais abordaban
-aterrizzar(imperfect) aterrizzaba aterrizzabas aterrizzaba aterrizza'bamos aterrizzabais aterrizzaban
+aterrizar(imperfect) aterrizaba aterrizabas aterrizaba aterriza'bamos aterrizabais aterrizaban
 despegar(imperfect) despegaba despegabas despegaba despega'bamos despegabais despegaban
 doblar(imperfect) doblaba doblabas doblaba dobla'bamos doblabais doblaban
 facturar(imperfect) facturaba facturabas facturaba factura'bamos facturabais facturaban

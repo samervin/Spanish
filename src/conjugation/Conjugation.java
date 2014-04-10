@@ -19,12 +19,9 @@ import javax.swing.JTextField;
 import javax.swing.ScrollPaneConstants;
 import javax.swing.text.DefaultCaret;
 
-//this is a shitty place but: given a word, type its conjugations,
-//with some system for adding tildes and accents
-//also: idea for simple translation, asks for words in English/Spanish
-//options for difficulty and "grades"
-
+//given a word, type its conjugations in a variety of tenses.
 //currently includes all illogical conjugations for llover
+//currently leaves estar out of the commands
 
 public class Conjugation extends JFrame{
 
@@ -38,7 +35,8 @@ public class Conjugation extends JFrame{
 	static JFrame frame;
 	static JPanel panel;
 
-	static int numberOfChapters = 8;
+	static int numberOfInputs = 6;
+	static int numberOfChapters = 10;
 	static int correct;
 	static int total;
 	static int word;
@@ -101,11 +99,15 @@ public class Conjugation extends JFrame{
 
 		try {
 			if(pool.equals("any")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
-					in = new Scanner(f);
-					while(in.hasNext()) arr.add(in.nextLine());
+					if(!f.getName().contains("formal")) {
+						in = new Scanner(f);
+						while(in.hasNext()) arr.add(in.nextLine());
+					}
 				}
 			} else if(pool.equals("pres")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					if(f.getName().contains("present")) {
 						in = new Scanner(f);
@@ -113,6 +115,7 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.equals("pret")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					if(f.getName().contains("preterite")) {
 						in = new Scanner(f);
@@ -120,13 +123,31 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.equals("imp")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					if(f.getName().contains("imperfect")) {
 						in = new Scanner(f);
 						while(in.hasNext()) arr.add(in.nextLine());
 					}
 				}
+			} else if(pool.equals("formal")) {
+				numberOfInputs = 3;
+				for(File f : filenames) {
+					if(f.getName().contains("_formal")) {
+						in = new Scanner(f);
+						while(in.hasNext()) arr.add(in.nextLine());
+					}
+				}
+			} else if(pool.equals("informal")) {
+				numberOfInputs = 2;
+				for(File f : filenames) {
+					if(f.getName().contains("informal")) {
+						in = new Scanner(f);
+						while(in.hasNext()) arr.add(in.nextLine());
+					}
+				}
 			} else if(pool.equals("any-i")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					if(f.getName().contains("irregular")) {
 						in = new Scanner(f);
@@ -134,6 +155,7 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.equals("pres-i")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					if(f.getName().contains("irregular") && f.getName().contains("present")) {
 						in = new Scanner(f);
@@ -141,6 +163,7 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.equals("pret-i")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					if(f.getName().contains("irregular") && f.getName().contains("preterite")) {
 						in = new Scanner(f);
@@ -148,6 +171,7 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.equals("imp-i")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					if(f.getName().contains("irregular") && f.getName().contains("imperfect")) {
 						in = new Scanner(f);
@@ -155,15 +179,17 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.contains("any")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					for(int i = 1; i <= numberOfChapters; i++) {
-						if(f.getName().contains(""+i) && pool.contains(""+i)) {
+						if(!f.getName().contains("formal") && f.getName().contains(""+i) && pool.contains(""+i)) {
 							in = new Scanner(f);
 							while(in.hasNext()) arr.add(in.nextLine());
 						}
 					}
 				}
 			} else if(pool.contains("pres")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					for(int i = 1; i <= numberOfChapters; i++) {
 						if(f.getName().contains("present") && f.getName().contains(""+i) && pool.contains(""+i)) {
@@ -173,6 +199,7 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.contains("pret")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					for(int i = 1; i <= numberOfChapters; i++) {
 						if(f.getName().contains("preterite") && f.getName().contains(""+i) && pool.contains(""+i)) {
@@ -182,9 +209,30 @@ public class Conjugation extends JFrame{
 					}
 				}
 			} else if(pool.contains("imp")) {
+				numberOfInputs = 6;
 				for(File f : filenames) {
 					for(int i = 1; i <= numberOfChapters; i++) {
 						if(f.getName().contains("imperfect") && f.getName().contains(""+i) && pool.contains(""+i)) {
+							in = new Scanner(f);
+							while(in.hasNext()) arr.add(in.nextLine());
+						}
+					}
+				}
+			} else if(pool.contains("formal") && !pool.contains("informal")) {
+				numberOfInputs = 3;
+				for(File f : filenames) {
+					for(int i = 1; i <= numberOfChapters; i++) {
+						if(f.getName().contains("_formal") && f.getName().contains(""+i) && pool.contains(""+i)) {
+							in = new Scanner(f);
+							while(in.hasNext()) arr.add(in.nextLine());
+						}
+					}
+				}
+			} else if(pool.contains("informal")) {
+				numberOfInputs = 2;
+				for(File f : filenames) {
+					for(int i = 1; i <= numberOfChapters; i++) {
+						if(f.getName().contains("informal") && f.getName().contains(""+i) && pool.contains(""+i)) {
 							in = new Scanner(f);
 							while(in.hasNext()) arr.add(in.nextLine());
 						}
@@ -212,7 +260,7 @@ public class Conjugation extends JFrame{
 
 				} else if(ans.length == 1 && ans[0].equals("help")) {
 					output.append("\n\nFor each verb that appears, type, in order, the six present tense conjugations.\n");
-					output.append("Please go in yo-tú-él-nosotros-vosotros-ellos order, and separate all words with spaces.\n");
+					output.append("Please go in yo-tï¿½-ï¿½l-nosotros-vosotros-ellos order, and separate all words with spaces.\n");
 					output.append("Do not type accents, type an apostrophe ' after the appropriate letter\n\t(for example, vosotros ayuda'is or yo ensen'o).\n");
 					input.setText("");
 
@@ -243,21 +291,24 @@ public class Conjugation extends JFrame{
 						input.setText("");
 					}	
 				}
-				else if(state == 1 && ans.length != 6) {
+				else if(state == 1 && ans.length != numberOfInputs) {
 					//there was a problem!
 					output.append(">>> Your reply was not valid. Try again.\n");
 
 				} else if(state == 1){
 					//process input
-					total += 6;
+					total += numberOfInputs;
 					Scanner line = new Scanner(arr.get(word));
 					line.next();
-					for(int j = 0; j < 6; j++) {
+					for(int j = 0; j < numberOfInputs; j++) {
 						if(ans[j].equals(line.next()))
 							correct++;
 					}
 					line.close();
-					output.append("You answered:\t" + ans[0]+" "+ans[1]+" "+ans[2]+" "+ans[3]+" "+ans[4]+" "+ans[5]+"\n");
+					output.append("You answered:\t");
+					for(int j = 0; j < numberOfInputs; j++) {
+						output.append(ans[j] + " "); 
+					} output.append("\n");
 					String conjugations = arr.get(word).substring(arr.get(word).indexOf(' ') + 1);
 					output.append("Actual answer:\t" + conjugations + "\n\n");
 					askQuestion();
@@ -286,6 +337,8 @@ public class Conjugation extends JFrame{
 		output.append("\t\"any-#\" for any words from # chapters, \"pres-#\" for present-tense words from # chapters,\n");
 		output.append("\t\"pret-#\" for preterite words from # chapters, or \"imp-#\" for imperfect words from # chapters,\n");
 		output.append("\t(where # can be any string of numbers like 1 or 245 or 96)\n");
+		output.append("\tYou can also type \"formal\" (or \"formal-#\") or \"informal\" (or \"informal-#\")\n");
+		output.append("\tto study formal and informal commands, as learned in class.\n");
 	}
 
 	public static void main(String[] args) {
@@ -294,7 +347,8 @@ public class Conjugation extends JFrame{
 
 		createFrame();
 		output.append("Current working directory: " + s + "\n");
-		output.append("Spanish 101 Conjugation practice program, version 8 (Chapters 1-8, present/preterite tenses)\n");
+		output.append("Spanish 101 Conjugation practice program, version 10\n");
+		output.append("\tChapters 1-10, present/preterite/imperfect/command tenses)\n");
 		output.append("Type \"help\" for assistance or type \"quit\" to see your final score.\n\n");
 		state = 0;
 
