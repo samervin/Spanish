@@ -1,0 +1,17 @@
+depositar(mandato-informal[+/-]) deposita deposites
+mandar(mandato-informal[+/-]) manda mandes
+rezar(mandato-informal[+/-]) reza reces
+alquilar(mandato-informal[+/-]) alquila alquiles
+ir(mandato-informal[+/-]) ve vayas
+almorzar(mandato-informal[+/-]) almuerza almuerces
+costar(mandato-informal[+/-]) cuesta cuestes
+recordar(mandato-informal[+/-]) recuerda recuerdes
+son'ar(mandato-informal[+/-]) suen'a suen'es
+encontrar(mandato-informal[+/-]) encuentra encuentres
+jugar(mandato-informal[+/-]) juega juegues
+dormir(mandato-informal[+/-]) duerme duermas
+morir(mandato-informal[+/-]) muere mueras
+devolver(mandato-informal[+/-]) devuelve devuelvas
+llover(mandato-informal[+/-]) llueve lluevas
+poder(mandato-informal[+/-]) puede puedas
+volver(mandato-informal[+/-]) vuelve vuelvas

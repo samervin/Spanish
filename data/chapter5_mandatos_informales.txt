@@ -1,0 +1,16 @@
+ganar(mandato-informal[+/-]) gana ganes
+dejar(mandato-informal[+/-]) deja dejes
+destruir(mandato-informal[+/-]) destruye destruyas
+conducir(mandato-informal[+/-]) conduce conduzcas
+conocer(mandato-informal[+/-]) conoce conozcas
+dar(mandato-informal[+/-]) da des
+decir(mandato-informal[+/-]) di digas
+hacer(mandato-informal[+/-]) haz hagas
+oi'r(mandato-informal[+/-]) oye oigas
+poner(mandato-informal[+/-]) pon pongas
+saber(mandato-informal[+/-]) sabe sepas
+salir(mandato-informal[+/-]) sal salgas
+seguir(mandato-informal[+/-]) sigue sigas
+traer(mandato-informal[+/-]) trae traigas
+venir(mandato-informal[+/-]) ven vengas
+ver(mandato-informal[+/-]) ve veas

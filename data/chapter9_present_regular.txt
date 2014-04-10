@@ -13,5 +13,5 @@ enojar(present) enojo enojas enoja enojamos enoja'is enojan
 estacionar(present) estaciono estacionas estaciona estacionamos estaciona'is estacionan
 frustrar(present) frustro frustras frustra frustramos frustra'is frustran
 pasar(present) paso pasas pasa pasamos pasa'is pasan
-sorprendar(present) sorprendo sorprendas sorprenda sorprendamos sorprenda'is sorprendan
+sorprender(present) sorprendo sorprendes sorprende sorprendemos sorprende'is sorprenden
 subir(present) subo subes sube subimos subi's suben

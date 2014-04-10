@@ -1,0 +1,17 @@
+abordar(mandato-informal[+/-]) aborda abordes
+aterrizar(mandato-informal[+/-]) aterriza aterrices
+despegar(mandato-informal[+/-]) despega despegues
+doblar(mandato-informal[+/-]) dobla dobles
+facturar(mandato-informal[+/-]) factura factures
+barrer(mandato-informal[+/-]) barre barras
+guardar(mandato-informal[+/-]) guarda guardes
+ordenar(mandato-informal[+/-]) ordena ordenes
+planchar(mandato-informal[+/-]) plancha planches
+sacar(mandato-informal[+/-]) saca saques
+sacudir(mandato-informal[+/-]) sacude sacudas
+secar(mandato-informal[+/-]) seca seques
+trapear(mandato-informal[+/-]) trapea trapees
+colgar(mandato-informal[+/-]) cuelga cuelgues
+recoger(mandato-informal[+/-]) recoge recojas
+regar(mandato-informal[+/-]) riega riegues
+tender(mandato-informal[+/-]) tiende tiendas

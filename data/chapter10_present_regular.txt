@@ -1,0 +1,13 @@
+abordar(present) abordo abordas aborda abordamos aborda'is abordan
+aterrizzar(present) aterrizzo aterrizzas aterrizza aterrizzamos aterrizza'is aterrizzan
+despegar(present) despego despegas despega despegamos despega'is despegan
+doblar(present) doblo doblas dobla doblamos dobla'is doblan
+facturar(present) facturo facturas factura facturamos factura'is facturan
+barrer(present) barro barres barre barremos barre'is barren
+guardar(present) guardo guardas guarda guardamos guarda'is guardan
+ordenar(present) ordeno ordenas ordena ordenamos ordena'is ordenan
+planchar(present) plancho planchas plancha planchamos plancha'is planchan
+sacar(present) saco sacas saca sacamos saca'is sacan
+sacudir(present) sacudo sacudes sacude sacudimos sacudi's sacuden
+secar(present) seco secas seca secamos seca'is secan
+trapear(present) trapeo trapeas trapea trapeamos trapea'is trapean

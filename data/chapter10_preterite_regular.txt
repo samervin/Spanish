@@ -1,0 +1,11 @@
+abordar(preterite) aborde' abordaste abordo' abordamos abordasteis abordaron
+doblar(preterite) doble' doblaste doblo' doblamos doblasteis doblaron
+facturar(preterite) facture' facturaste facturo' facturamos facturasteis facturaron
+barrer(preterite) barri' barriste barrio' barrimos barristeis barrieron
+guardar(preterite) guarde' guardaste guardo' guardamos guardasteis guardaron
+ordenar(preterite) ordene' ordenaste ordeno' ordenamos ordenasteis ordenaron
+planchar(preterite) planche' planchaste plancho' planchamos planchasteis plancharon
+recoger(preterite) recogi' recogiste recogio' recogimos recogisteis recogieron
+sacudir(preterite) sacudi' sacudiste sacudio' sacudimos sacudisteis sacudieron
+tender(preterite) tendi' tendiste tendio' tendimos tendisteis tendieron
+trapear(preterite) trapee' trapeaste trapeo' trapeamos trapeasteis trapearon

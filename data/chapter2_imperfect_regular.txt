@@ -23,3 +23,4 @@ tomar(imperfect) tomaba tomabas tomaba toma'bamos tomabais tomaban
 trabajar(imperfect) trabajaba trabajabas trabajaba trabaja'bamos trabajabais trabajaban
 viajar(imperfect) viajaba viajabas viajaba viaja'bamos viajabais viajaban
 esquiar(imperfect) esquiaba esquiabas esquiaba esquia'bamos esquiabais esquiaban
+tener(imperfect) teni'a teni'as teni'a teni'amos teni'ais teni'an

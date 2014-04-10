@@ -1,0 +1,7 @@
+alojar(mandato-informal[+/-]) aloja alojes
+bajar(mandato-informal[+/-]) baja bajes
+quedar(mandato-informal[+/-]) queda quedes
+subir(mandato-informal[+/-]) sube subas
+subir(mandato-informal[+/-]) sube subas
+cenar(mandato-informal[+/-]) cena cenes
+desayunar(mandato-informal[+/-]) desayuna desayunes

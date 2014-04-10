@@ -1,0 +1,4 @@
+colgar(present) cuelgo cuelgas cuelga colgamos colga'is cuelgan
+recoger(present) recojo recoges recoge recogemos recoge'is recogen
+regar(present) riego riegas riega regamos rega'is riegan
+tender(present) tiendo tiendes tiende iendemos tende'is tienden

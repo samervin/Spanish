@@ -1,0 +1,6 @@
+aterrizar(preterite) aterrice' aterrizaste aterrizo' aterrizamos aterrizasteis aterrizaron
+despegar(preterite) despegue' despegaste despego' despegamos despegasteis despegaron
+colgar(preterite) colgue' colgaste colgo' colgamos colgasteis colgaron
+regar(preterite) regue' regaste rego' regamos regasteis regaron
+sacar(preterite) saque' sacaste saco' sacamos sacasteis sacaron
+secar(preterite) seque' secaste seco' secamos secasteis secaron

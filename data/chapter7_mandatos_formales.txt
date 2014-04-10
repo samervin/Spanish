@@ -1,0 +1,6 @@
+alojar(mandato-formal[ud/uds/nos) aloje alojen alojemos
+bajar(mandato-formal[ud/uds/nos) baje bajen bajemos
+quedar(mandato-formal[ud/uds/nos) quede queden quedemos
+subir(mandato-formal[ud/uds/nos) suba suban subamos
+cenar(mandato-formal[ud/uds/nos) cene cenen cenemos
+desayunar(mandato-formal[ud/uds/nos) desayune desayunen desayunemos
