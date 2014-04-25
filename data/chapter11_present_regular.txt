@@ -1,0 +1,10 @@
+acabar(present) acabo acabas acaba acabamos acaba'is acaban
+apagar(present) apago apagas apaga apagamos apaga'is apagan
+apreciar(present) aprecio aprecias aprecia apreciamos aprecia'is aprecian
+disen'ar(present) disen'o disen'as disen'a disen'amos disen'a'is disen'an
+esculpir(present) esculpo esculpes esculpe esculpimos esculpi's esculpen
+exhibir(present) exhibo exhibes exhibe exhibimos exhibi's exhiben
+olvidar(present) olvido olvidas olvida olvidamos olvida'is olvidan
+posar(present) poso posas posa posamos posa'is posan
+quedar(present) quedo quedas queda quedamos queda'is quedan
+romper(present) rompo rompes rompe rompemos rompe'is rompen

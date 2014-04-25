@@ -1,0 +1,9 @@
+acabar(preterite) acabe' acabaste acabo' acabamos acabasteis acabaron
+apreciar(preterite) aprecie' apreciaste aprecio' apreciamos apreciasteis apreciaron
+disen'ar(preterite) disen'e' disen'aste disen'o' disen'amos disen'asteis disen'aron
+esculpir(preterite) esculpi' esculpiste esculpio' esculpimos esculpisteis esculpieron
+exhibir(preterite) exhibi' exhibiste exhibio' exhibimos exhibisteis exhibieron
+olvidar(preterite) olvide' olvidaste olvido' olvidamos olvidasteis olvidaron
+posar(preterite) pose' posaste poso' posamos posasteis posaron
+quedar(preterite) quede' quedaste quedo' quedamos quedasteis quedaron
+romper(preterite) rompi' rompiste rompio' rompimos rompisteis rompieron

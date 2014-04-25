@@ -1,0 +1,11 @@
+acabar(mandato-informal[+/-]) acaba acabes
+apagar(mandato-informal[+/-]) apaga apagues
+apreciar(mandato-informal[+/-]) aprecia aprecies
+descomponer(mandato-informal[+/-]) descompo'n descompongas
+disen'ar(mandato-informal[+/-]) disen'a disen'es
+esculpir(mandato-informal[+/-]) esculpe esculpas
+exhibir(mandato-informal[+/-]) exhibe exhibas
+olvidar(mandato-informal[+/-]) olvida olvides
+posar(mandato-informal[+/-]) posa poses
+quedar(mandato-informal[+/-]) queda quedes
+romper(mandato-informal[+/-]) rompe rompas

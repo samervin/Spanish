@@ -36,7 +36,7 @@ public class Conjugation extends JFrame{
 	static JPanel panel;
 
 	static int numberOfInputs = 6;
-	static int numberOfChapters = 10;
+	static int numberOfChapters = 11;
 	static int correct;
 	static int total;
 	static int word;
@@ -45,7 +45,7 @@ public class Conjugation extends JFrame{
 	static Random rand = new Random();
 
 	public static void createFrame() {
-		frame = new JFrame("SPAN101 Conjugation");
+		frame = new JFrame("SPAN101/102 Conjugation");
 		frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		panel = new JPanel();
 		panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
@@ -96,7 +96,7 @@ public class Conjugation extends JFrame{
 		Scanner in;
 		File pathToData = new File("data");
 		File[] filenames = pathToData.listFiles();
-
+		
 		try {
 			if(pool.equals("any")) {
 				numberOfInputs = 6;
@@ -260,8 +260,8 @@ public class Conjugation extends JFrame{
 
 				} else if(ans.length == 1 && ans[0].equals("help")) {
 					output.append("\n\nFor each verb that appears, type, in order, the six present tense conjugations.\n");
-					output.append("Please go in yo-t�-�l-nosotros-vosotros-ellos order, and separate all words with spaces.\n");
-					output.append("Do not type accents, type an apostrophe ' after the appropriate letter\n\t(for example, vosotros ayuda'is or yo ensen'o).\n");
+					output.append("Please go in yo-tu-el-nosotros-vosotros-ellos order, and separate all words with spaces.\n");
+					output.append("Do not type nonstandard letters, type an apostrophe ' after the appropriate letter\n\t(for example, vosotros ayuda'is or yo ensen'o).\n");
 					input.setText("");
 
 				} else if(ans.length == 1 && ans[0].equals("reset")) {
@@ -347,8 +347,8 @@ public class Conjugation extends JFrame{
 
 		createFrame();
 		output.append("Current working directory: " + s + "\n");
-		output.append("Spanish 101 Conjugation practice program, version 10\n");
-		output.append("\tChapters 1-10, present/preterite/imperfect/command tenses)\n");
+		output.append("Spanish 101/102 Conjugation practice program, version 11\n");
+		output.append("\tChapters 1-11, present/preterite/imperfect/command tenses)\n");
 		output.append("Type \"help\" for assistance or type \"quit\" to see your final score.\n\n");
 		state = 0;
 

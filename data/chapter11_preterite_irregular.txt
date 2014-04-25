@@ -1,0 +1,2 @@
+apagar(preterite) apague' apagaste apago' apagamos apagasteis apagaron
+descomponer(preterite) descompuse descompusiste descompuso descompusimos descompusisteis descompusieron
