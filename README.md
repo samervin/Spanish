@@ -16,6 +16,6 @@ This should work.
 I don't have a Mac machine to test on, but if the Windows way doesn't work, use the Linux way.
 
 Current support (aka what's in the data files):
-Indicative present, preterit, and imperfect tenses (with separations for irregulars)
-"Mandatos formales" (half of the present subjunctive, with no irregular separation)
-"Mandatos informales" (one part imperative, one part subjunctive present, no irregular separation)
+- Indicative present, preterit, and imperfect tenses (with separations for irregulars)
+- "Mandatos formales" (half of the present subjunctive, with no irregular separation)
+- "Mandatos informales" (one part imperative, one part subjunctive present, no irregular separation)
