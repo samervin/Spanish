@@ -1,5 +1,5 @@
 README:
-
+=====
 For those finding this on GitHub: you only need Conjugation.jar and the data folder. The src folder is unnecessary.
 For everyone: read on.
 
